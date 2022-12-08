@@ -1,0 +1,9 @@
+{
+  "name": "becoming-a-junior",
+  "version": "1.0.0",
+  "description": "path to become a juniour",
+  "main": "index.js",
+  "repository": "https://github.com/egor-teapot/becoming-a-juniour",
+  "author": "egor-teapot <obivan-kenobo@yandex.ru>",
+  "license": "MIT"
+}
