@@ -9,6 +9,7 @@
 
 # План развития
 - [X] Пройти курсы Legacy Responsive Web Design на free code camp
+- [ ] Изучить AJAX и написать небольшую документацию
 - [ ] Пройти курсы JavaScript Algorithms and Data Structures на free code camp
 - [ ] Пройти курсы New Responsive Web Design на free code camp
 - [ ] Пройти курсы Back End Development and APIs на free code camp
