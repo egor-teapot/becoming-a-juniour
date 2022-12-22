@@ -1,6 +1,7 @@
 # Источники
 - https://www.mongodb.com/docs/realm/sdk/node/
 - https://www.mongodb.com/docs/realm-sdks/js/latest/
+- https://www.mongodb.com/docs/realm-sdks/dotnet/10.0.0/reference/Realms.Schema.PropertyType.html
 
 # Realm db вопрос - ответ
 
